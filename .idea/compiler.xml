@@ -7,10 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="RabbitMQ-HelloWorld" />
+        <module name="RabbitMQ-WorkQueues" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="RabbitMQ-HelloWorld" target="1.7" />
+      <module name="RabbitMQ-WorkQueues" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/RabbitMQ-HelloWorld/RabbitMQ-HelloWorld.iml" filepath="$PROJECT_DIR$/RabbitMQ-HelloWorld/RabbitMQ-HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RabbitMQ-WorkQueues/RabbitMQ-WorkQueues.iml" filepath="$PROJECT_DIR$/RabbitMQ-WorkQueues/RabbitMQ-WorkQueues.iml" />
     </modules>
   </component>
 </project>
