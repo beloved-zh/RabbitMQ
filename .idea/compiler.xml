@@ -9,6 +9,7 @@
         <module name="RabbitMQ-HelloWorld" />
         <module name="RabbitMQ-Routing" />
         <module name="RabbitMQ-WorkQueues" />
+        <module name="RabbitMQ-Topic" />
         <module name="RabbitMQ-Fanout" />
       </profile>
     </annotationProcessing>
@@ -16,6 +17,7 @@
       <module name="RabbitMQ-Fanout" target="1.5" />
       <module name="RabbitMQ-HelloWorld" target="1.7" />
       <module name="RabbitMQ-Routing" target="1.5" />
+      <module name="RabbitMQ-Topic" target="1.5" />
       <module name="RabbitMQ-WorkQueues" target="1.5" />
     </bytecodeTargetLevel>
   </component>

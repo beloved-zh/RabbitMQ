@@ -1,4 +1,4 @@
-package routing;
+package topic;
 
 import com.rabbitmq.client.Channel;
 import com.rabbitmq.client.Connection;
@@ -20,14 +20,14 @@ public class Provider {
         /*
          * 将通道声明指定交换机
          *   1：交换价名称
-         *   2：交换机类型：direct
+         *   2：交换机类型：topic
          */
-        String exchangeName = "logs_direct";
-        channel.exchangeDeclare(exchangeName,"direct");
+        String exchangeName = "topic";
+        channel.exchangeDeclare(exchangeName,"topic");
 
         // 发送消息
-        String routingKey = "error";
-        channel.basicPublish(exchangeName,routingKey,null,("这是direct模型发布的基于route key：["+routingKey+"]发送的消息").getBytes());
+        String routingKey = "user.add.aaa"; // 动态路由
+        channel.basicPublish(exchangeName,routingKey,null,("这是topic模型发布的基于route key：["+routingKey+"]发送的消息").getBytes());
 
         // 关闭资源
         RabbitMQUtils.close(channel,connection);

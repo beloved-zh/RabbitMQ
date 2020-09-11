@@ -2,15 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35d24a40-b693-4ab2-a39c-9b5960212b0e" name="默认更改列表" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RabbitMQ-Routing/RabbitMQ-Routing.iml" beforeDir="false" afterPath="$PROJECT_DIR$/RabbitMQ-Routing/RabbitMQ-Routing.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RabbitMQ-Routing/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RabbitMQ-Routing/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RabbitMQ-Routing/src/main/java/routing/Customer1.java" beforeDir="false" afterPath="$PROJECT_DIR$/RabbitMQ-Routing/src/main/java/routing/Customer1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RabbitMQ-Routing/src/main/java/routing/Customer2.java" beforeDir="false" afterPath="$PROJECT_DIR$/RabbitMQ-Routing/src/main/java/routing/Customer2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RabbitMQ-Routing/src/main/java/routing/Provider.java" beforeDir="false" afterPath="$PROJECT_DIR$/RabbitMQ-Routing/src/main/java/routing/Provider.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/RabbitMQ-HelloWorld/target/" />
     <ignored path="$PROJECT_DIR$/RabbitMQ-WorkQueues/target/" />
     <ignored path="$PROJECT_DIR$/RabbitMQ-Fanout/target/" />
     <ignored path="$PROJECT_DIR$/RabbitMQ-Routing/target/" />
+    <ignored path="$PROJECT_DIR$/RabbitMQTopic/target/" />
+    <ignored path="$PROJECT_DIR$/RabbitMQ-Topic/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,29 +28,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/RabbitMQ-Routing/src/main/java/routing/Provider.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="164">
-              <caret line="31" column="7" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="7" />
+            <state relative-caret-position="229">
+              <caret line="22" column="27" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/RabbitMQ-Topic/src/main/java/topic/Provider.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="74">
+              <caret line="28" column="41" selection-start-line="28" selection-start-column="41" selection-end-line="28" selection-end-column="41" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/RabbitMQ-Routing/src/main/java/routing/Customer1.java">
+        <entry file="file://$PROJECT_DIR$/RabbitMQ-Topic/src/main/java/topic/Customer2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="27" column="55" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="55" />
+            <state relative-caret-position="228">
+              <caret line="27" column="50" lean-forward="true" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="50" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/RabbitMQ-Routing/src/main/java/routing/Customer2.java">
+        <entry file="file://$PROJECT_DIR$/RabbitMQ-Topic/src/main/java/topic/Customer1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="26" column="29" lean-forward="true" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
+            <state relative-caret-position="159">
+              <caret line="27" column="50" lean-forward="true" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="50" />
             </state>
           </provider>
         </entry>
@@ -81,7 +96,12 @@
         <option value="$PROJECT_DIR$/RabbitMQ-Routing/pom.xml" />
         <option value="$PROJECT_DIR$/RabbitMQ-Routing/src/main/java/routing/Customer1.java" />
         <option value="$PROJECT_DIR$/RabbitMQ-Routing/src/main/java/routing/Customer2.java" />
+        <option value="$PROJECT_DIR$/RabbitMQ-Topic/pom.xml" />
+        <option value="$PROJECT_DIR$/RabbitMQ-Routing/src/main/java/topic/Provider.java" />
         <option value="$PROJECT_DIR$/RabbitMQ-Routing/src/main/java/routing/Provider.java" />
+        <option value="$PROJECT_DIR$/RabbitMQ-Topic/src/main/java/topic/Customer2.java" />
+        <option value="$PROJECT_DIR$/RabbitMQ-Topic/src/main/java/topic/Customer1.java" />
+        <option value="$PROJECT_DIR$/RabbitMQ-Topic/src/main/java/topic/Provider.java" />
       </list>
     </option>
   </component>
@@ -135,7 +155,77 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="RabbitMQ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RabbitMQ-Routing" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RabbitMQ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RabbitMQ-Routing" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RabbitMQ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RabbitMQ-Routing" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RabbitMQ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RabbitMQ-Routing" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RabbitMQ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RabbitMQ-Routing" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="routing" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RabbitMQ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RabbitMQ-Topic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RabbitMQ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RabbitMQ-Topic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RabbitMQ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RabbitMQ-Topic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RabbitMQ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RabbitMQ-Topic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RabbitMQ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RabbitMQ-Topic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="topic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RabbitMQ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RabbitMQ-WorkQueues" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
@@ -144,7 +234,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="D:/tool/git/git-cmd.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/RabbitMQ-Topic/src/main/java" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="模块" />
@@ -154,10 +244,14 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="routing" />
+      <recent name="topic" />
       <recent name="utils" />
+      <recent name="routing" />
       <recent name="fanout" />
       <recent name="workqueues" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\ideaProject\RabbitMQ\RabbitMQ-Topic\src\main\java" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -174,6 +268,19 @@
   </component>
   <component name="RunManager" selected="Application.Provider (1)">
     <configuration name="Customer1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="topic.Customer1" />
+      <module name="RabbitMQ-Topic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="topic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Customer1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="routing.Customer1" />
       <module name="RabbitMQ-Routing" />
       <extension name="coverage">
@@ -187,6 +294,19 @@
       </method>
     </configuration>
     <configuration name="Customer2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="topic.Customer2" />
+      <module name="RabbitMQ-Topic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="topic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Customer2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="routing.Customer2" />
       <module name="RabbitMQ-Routing" />
       <extension name="coverage">
@@ -212,19 +332,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Provider (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="routing.Provider" />
-      <module name="RabbitMQ-Routing" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="routing.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Provider" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="fanout.Provider" />
       <module name="RabbitMQ-Fanout" />
@@ -238,13 +345,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Provider" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="topic.Provider" />
+      <module name="RabbitMQ-Routing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="topic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Provider" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="topic.Provider" />
+      <module name="RabbitMQ-Topic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="routing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Provider (1)" />
         <item itemvalue="Application.Customer2 (1)" />
         <item itemvalue="Application.Customer1 (1)" />
-        <item itemvalue="Application.Provider" />
-        <item itemvalue="Application.Customer3" />
+        <item itemvalue="Application.Provider (1)" />
+        <item itemvalue="Application.Customer2 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -259,7 +392,7 @@
       <option name="presentableId" value="Default" />
       <updated>1599720702001</updated>
       <workItem from="1599720704504" duration="17251000" />
-      <workItem from="1599837366621" duration="7640000" />
+      <workItem from="1599837366621" duration="8989000" />
     </task>
     <servers />
   </component>
@@ -296,13 +429,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24891000" />
+    <option name="totallyTimeSpent" value="26240000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20643431" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20643431" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -312,13 +445,13 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.52549577" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.6147309" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Messages" order="7" weight="0.3286119" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.21671388" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.37818697" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
@@ -479,13 +612,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/RabbitMQ-WorkQueues/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="24" column="19" selection-start-line="10" selection-start-column="4" selection-end-line="24" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/RabbitMQ-Routing/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
@@ -499,7 +625,7 @@
     <entry file="file://$PROJECT_DIR$/RabbitMQ-Routing/src/main/java/routing/Customer2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
-          <caret line="26" column="29" lean-forward="true" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
+          <caret line="26" column="29" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
         </state>
       </provider>
     </entry>
@@ -510,10 +636,55 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/RabbitMQTopic/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="13" lean-forward="true" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RabbitMQ-WorkQueues/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="24" column="19" selection-start-line="10" selection-start-column="4" selection-end-line="24" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RabbitMQ-Topic/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RabbitMQ-Topic/src/main/java/utils/RabbitMQUtils.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/RabbitMQ-Routing/src/main/java/routing/Provider.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="31" column="7" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="7" />
+        <state relative-caret-position="229">
+          <caret line="22" column="27" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RabbitMQ-Topic/src/main/java/topic/Customer1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="27" column="50" lean-forward="true" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RabbitMQ-Topic/src/main/java/topic/Customer2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="27" column="50" lean-forward="true" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RabbitMQ-Topic/src/main/java/topic/Provider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
+          <caret line="28" column="41" selection-start-line="28" selection-start-column="41" selection-end-line="28" selection-end-column="41" />
         </state>
       </provider>
     </entry>
@@ -590,7 +761,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>RabbitMQ-Routing</last-edited>
+          <last-edited>RabbitMQ-Topic</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
