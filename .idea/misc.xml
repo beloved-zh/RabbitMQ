@@ -8,6 +8,8 @@
       <list>
         <option value="$PROJECT_DIR$/RabbitMQ-HelloWorld/pom.xml" />
         <option value="$PROJECT_DIR$/RabbitMQ-WorkQueues/pom.xml" />
+        <option value="$PROJECT_DIR$/RabbitMQ-Fanout/pom.xml" />
+        <option value="$PROJECT_DIR$/RabbitMQ-Routing/pom.xml" />
       </list>
     </option>
   </component>
