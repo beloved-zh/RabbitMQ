@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/RabbitMQ-Fanout/RabbitMQ-Fanout.iml" filepath="$PROJECT_DIR$/RabbitMQ-Fanout/RabbitMQ-Fanout.iml" />
       <module fileurl="file://$PROJECT_DIR$/RabbitMQ-HelloWorld/RabbitMQ-HelloWorld.iml" filepath="$PROJECT_DIR$/RabbitMQ-HelloWorld/RabbitMQ-HelloWorld.iml" />
       <module fileurl="file://$PROJECT_DIR$/RabbitMQ-Routing/RabbitMQ-Routing.iml" filepath="$PROJECT_DIR$/RabbitMQ-Routing/RabbitMQ-Routing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RabbitMQ-SpringBoot/RabbitMQ-SpringBoot.iml" filepath="$PROJECT_DIR$/RabbitMQ-SpringBoot/RabbitMQ-SpringBoot.iml" />
       <module fileurl="file://$PROJECT_DIR$/RabbitMQ-Topic/RabbitMQ-Topic.iml" filepath="$PROJECT_DIR$/RabbitMQ-Topic/RabbitMQ-Topic.iml" />
       <module fileurl="file://$PROJECT_DIR$/RabbitMQ-WorkQueues/RabbitMQ-WorkQueues.iml" filepath="$PROJECT_DIR$/RabbitMQ-WorkQueues/RabbitMQ-WorkQueues.iml" />
     </modules>

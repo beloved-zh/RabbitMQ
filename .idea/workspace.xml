@@ -3,12 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="35d24a40-b693-4ab2-a39c-9b5960212b0e" name="默认更改列表" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RabbitMQ-Routing/src/main/java/routing/Customer1.java" beforeDir="false" afterPath="$PROJECT_DIR$/RabbitMQ-Routing/src/main/java/routing/Customer1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RabbitMQ-Routing/src/main/java/routing/Customer2.java" beforeDir="false" afterPath="$PROJECT_DIR$/RabbitMQ-Routing/src/main/java/routing/Customer2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RabbitMQ-Routing/src/main/java/routing/Provider.java" beforeDir="false" afterPath="$PROJECT_DIR$/RabbitMQ-Routing/src/main/java/routing/Provider.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/RabbitMQ-HelloWorld/target/" />
@@ -17,6 +15,7 @@
     <ignored path="$PROJECT_DIR$/RabbitMQ-Routing/target/" />
     <ignored path="$PROJECT_DIR$/RabbitMQTopic/target/" />
     <ignored path="$PROJECT_DIR$/RabbitMQ-Topic/target/" />
+    <ignored path="$PROJECT_DIR$/RabbitMQ-SpringBoot/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,37 +28,87 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/RabbitMQ-Routing/src/main/java/routing/Provider.java">
+        <entry file="file://$PROJECT_DIR$/RabbitMQ-SpringBoot/src/main/java/com/zh/work/WorkCustomer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="229">
-              <caret line="22" column="27" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
+            <state relative-caret-position="276">
+              <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RabbitMQ-SpringBoot/src/test/java/com/zh/RabbitmqSpringbootApplicationTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="235">
+              <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#425#426#0" expanded="true" />
+                <element signature="e#507#508#0" expanded="true" />
+                <element signature="e#556#557#0" expanded="true" />
+                <element signature="e#637#638#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/RabbitMQ-Topic/src/main/java/topic/Provider.java">
+        <entry file="file://$PROJECT_DIR$/RabbitMQ-SpringBoot/src/main/java/com/zh/topic/TopicCustomer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="74">
-              <caret line="28" column="41" selection-start-line="28" selection-start-column="41" selection-end-line="28" selection-end-column="41" />
+            <state relative-caret-position="178">
+              <caret line="27" column="26" lean-forward="true" selection-end-line="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#147#148#0" expanded="true" />
+                <element signature="e#206#207#0" expanded="true" />
+                <element signature="e#1003#1004#0" expanded="true" />
+                <element signature="e#1062#1063#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/RabbitMQ-Topic/src/main/java/topic/Customer2.java">
+        <entry file="file://$PROJECT_DIR$/RabbitMQ-SpringBoot/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="27" column="50" lean-forward="true" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="50" />
+            <state relative-caret-position="989">
+              <caret line="43" column="21" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/RabbitMQ-Topic/src/main/java/topic/Customer1.java">
+        <entry file="file://$PROJECT_DIR$/RabbitMQ-SpringBoot/src/main/resources/application.yaml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="159">
-              <caret line="27" column="50" lean-forward="true" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="50" />
+            <state relative-caret-position="207">
+              <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RabbitMQ-SpringBoot/src/main/java/com/zh/route/RouteCustomer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="23" column="52" lean-forward="true" selection-start-line="22" selection-start-column="4" selection-end-line="23" selection-end-column="52" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RabbitMQ-SpringBoot/src/main/java/com/zh/fanout/FanoutCustomer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -102,6 +151,15 @@
         <option value="$PROJECT_DIR$/RabbitMQ-Topic/src/main/java/topic/Customer2.java" />
         <option value="$PROJECT_DIR$/RabbitMQ-Topic/src/main/java/topic/Customer1.java" />
         <option value="$PROJECT_DIR$/RabbitMQ-Topic/src/main/java/topic/Provider.java" />
+        <option value="$PROJECT_DIR$/RabbitMQ-SpringBoot/pom.xml" />
+        <option value="$PROJECT_DIR$/RabbitMQ-SpringBoot/src/main/resources/application.yaml" />
+        <option value="$PROJECT_DIR$/RabbitMQ-SpringBoot/src/test/java/com/zh/TestRabbitMQ.java" />
+        <option value="$PROJECT_DIR$/RabbitMQ-SpringBoot/src/main/java/com/zh/work/WorkCustomer.java" />
+        <option value="$PROJECT_DIR$/RabbitMQ-SpringBoot/src/main/java/com/zh/hello/HelloCustomer.java" />
+        <option value="$PROJECT_DIR$/RabbitMQ-SpringBoot/src/main/java/com/zh/fanout/FanoutCustomer.java" />
+        <option value="$PROJECT_DIR$/RabbitMQ-SpringBoot/src/main/java/com/zh/route/RouteCustomer.java" />
+        <option value="$PROJECT_DIR$/RabbitMQ-SpringBoot/src/test/java/com/zh/RabbitmqSpringbootApplicationTests.java" />
+        <option value="$PROJECT_DIR$/RabbitMQ-SpringBoot/src/main/java/com/zh/topic/TopicCustomer.java" />
       </list>
     </option>
   </component>
@@ -160,67 +218,134 @@
           <expand>
             <path>
               <item name="RabbitMQ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RabbitMQ-Routing" type="462c0819:PsiDirectoryNode" />
+              <item name="RabbitMQ-SpringBoot" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="RabbitMQ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RabbitMQ-Routing" type="462c0819:PsiDirectoryNode" />
+              <item name="RabbitMQ-SpringBoot" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="RabbitMQ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RabbitMQ-Routing" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RabbitMQ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RabbitMQ-Routing" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RabbitMQ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RabbitMQ-Routing" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="routing" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RabbitMQ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RabbitMQ-Topic" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RabbitMQ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RabbitMQ-Topic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RabbitMQ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RabbitMQ-Topic" type="462c0819:PsiDirectoryNode" />
+              <item name="RabbitMQ-SpringBoot" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="RabbitMQ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RabbitMQ-Topic" type="462c0819:PsiDirectoryNode" />
+              <item name="RabbitMQ-SpringBoot" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="RabbitMQ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RabbitMQ-Topic" type="462c0819:PsiDirectoryNode" />
+              <item name="RabbitMQ-SpringBoot" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RabbitMQ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RabbitMQ-SpringBoot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="zh" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RabbitMQ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RabbitMQ-SpringBoot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="zh" type="462c0819:PsiDirectoryNode" />
+              <item name="fanout" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RabbitMQ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RabbitMQ-SpringBoot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="zh" type="462c0819:PsiDirectoryNode" />
+              <item name="hello" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RabbitMQ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RabbitMQ-SpringBoot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="zh" type="462c0819:PsiDirectoryNode" />
+              <item name="route" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RabbitMQ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RabbitMQ-SpringBoot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="zh" type="462c0819:PsiDirectoryNode" />
               <item name="topic" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="RabbitMQ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RabbitMQ-WorkQueues" type="462c0819:PsiDirectoryNode" />
+              <item name="RabbitMQ-SpringBoot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="zh" type="462c0819:PsiDirectoryNode" />
+              <item name="work" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RabbitMQ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RabbitMQ-SpringBoot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RabbitMQ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RabbitMQ-SpringBoot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RabbitMQ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RabbitMQ-SpringBoot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RabbitMQ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RabbitMQ-SpringBoot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RabbitMQ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RabbitMQ-SpringBoot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="zh" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RabbitMQ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RabbitMQ-SpringBoot" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -244,11 +369,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.zh.topic" />
+      <recent name="com.zh.route" />
       <recent name="topic" />
       <recent name="utils" />
       <recent name="routing" />
-      <recent name="fanout" />
-      <recent name="workqueues" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\ideaProject\RabbitMQ\RabbitMQ-Topic\src\main\java" />
@@ -266,85 +391,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Provider (1)">
-    <configuration name="Customer1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="topic.Customer1" />
-      <module name="RabbitMQ-Topic" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="topic.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Customer1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="routing.Customer1" />
-      <module name="RabbitMQ-Routing" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="routing.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Customer2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="topic.Customer2" />
-      <module name="RabbitMQ-Topic" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="topic.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Customer2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="routing.Customer2" />
-      <module name="RabbitMQ-Routing" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="routing.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Customer3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fanout.Customer3" />
-      <module name="RabbitMQ-Fanout" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="fanout.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Provider" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fanout.Provider" />
-      <module name="RabbitMQ-Fanout" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="fanout.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.RabbitmqSpringbootApplicationTests.topic">
     <configuration name="Provider" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="topic.Provider" />
       <module name="RabbitMQ-Routing" />
@@ -367,17 +414,104 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RabbitmqSpringbootApplicationTests.fanout" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RabbitMQ-SpringBoot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zh.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zh" />
+      <option name="MAIN_CLASS_NAME" value="com.zh.RabbitmqSpringbootApplicationTests" />
+      <option name="METHOD_NAME" value="fanout" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RabbitmqSpringbootApplicationTests.hello" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RabbitMQ-SpringBoot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zh.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zh" />
+      <option name="MAIN_CLASS_NAME" value="com.zh.RabbitmqSpringbootApplicationTests" />
+      <option name="METHOD_NAME" value="hello" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RabbitmqSpringbootApplicationTests.route" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RabbitMQ-SpringBoot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zh.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zh" />
+      <option name="MAIN_CLASS_NAME" value="com.zh.RabbitmqSpringbootApplicationTests" />
+      <option name="METHOD_NAME" value="route" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RabbitmqSpringbootApplicationTests.topic" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RabbitMQ-SpringBoot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zh.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zh" />
+      <option name="MAIN_CLASS_NAME" value="com.zh.RabbitmqSpringbootApplicationTests" />
+      <option name="METHOD_NAME" value="topic" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RabbitmqSpringbootApplicationTests.work" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RabbitMQ-SpringBoot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zh.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zh" />
+      <option name="MAIN_CLASS_NAME" value="com.zh.RabbitmqSpringbootApplicationTests" />
+      <option name="METHOD_NAME" value="work" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RabbitmqSpringbootApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="RabbitMQ-SpringBoot" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zh.RabbitmqSpringbootApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Provider (1)" />
-        <item itemvalue="Application.Customer2 (1)" />
-        <item itemvalue="Application.Customer1 (1)" />
-        <item itemvalue="Application.Provider (1)" />
-        <item itemvalue="Application.Customer2 (1)" />
+        <item itemvalue="JUnit.RabbitmqSpringbootApplicationTests.topic" />
+        <item itemvalue="JUnit.RabbitmqSpringbootApplicationTests.route" />
+        <item itemvalue="JUnit.RabbitmqSpringbootApplicationTests.work" />
+        <item itemvalue="JUnit.RabbitmqSpringbootApplicationTests.fanout" />
+        <item itemvalue="JUnit.RabbitmqSpringbootApplicationTests.hello" />
       </list>
     </recent_temporary>
   </component>
@@ -392,50 +526,52 @@
       <option name="presentableId" value="Default" />
       <updated>1599720702001</updated>
       <workItem from="1599720704504" duration="17251000" />
-      <workItem from="1599837366621" duration="8989000" />
+      <workItem from="1599837366621" duration="9143000" />
+      <workItem from="1599896040580" duration="8253000" />
+      <workItem from="1599909116950" duration="293000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Provider_testSendMessage - 2020.09.10 at 16h 55m 45s.xml">
-      <configuration name="Provider.testSendMessage" configurationId="JUnit" />
+    <history-entry file="RabbitmqSpringbootApplicationTests_fanout - 2020.09.12 at 18h 50m 28s.xml">
+      <configuration name="RabbitmqSpringbootApplicationTests.fanout" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Provider_testSendMessage - 2020.09.10 at 16h 56m 00s.xml">
-      <configuration name="Provider.testSendMessage" configurationId="JUnit" />
+    <history-entry file="RabbitmqSpringbootApplicationTests_route - 2020.09.12 at 18h 58m 04s.xml">
+      <configuration name="RabbitmqSpringbootApplicationTests.route" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Provider_testSendMessage - 2020.09.10 at 17h 17m 29s.xml">
-      <configuration name="Provider.testSendMessage" configurationId="JUnit" />
+    <history-entry file="RabbitmqSpringbootApplicationTests_route - 2020.09.12 at 18h 59m 19s.xml">
+      <configuration name="RabbitmqSpringbootApplicationTests.route" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Provider_testSendMessage - 2020.09.10 at 17h 18m 08s.xml">
-      <configuration name="Provider.testSendMessage" configurationId="JUnit" />
+    <history-entry file="RabbitmqSpringbootApplicationTests_topic - 2020.09.12 at 19h 05m 41s.xml">
+      <configuration name="RabbitmqSpringbootApplicationTests.topic" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Provider_testSendMessage - 2020.09.10 at 17h 18m 19s.xml">
-      <configuration name="Provider.testSendMessage" configurationId="JUnit" />
+    <history-entry file="RabbitmqSpringbootApplicationTests_fanout - 2020.09.12 at 19h 06m 17s.xml">
+      <configuration name="RabbitmqSpringbootApplicationTests.fanout" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Provider_testSendMessage - 2020.09.10 at 17h 39m 06s.xml">
-      <configuration name="Provider.testSendMessage" configurationId="JUnit" />
+    <history-entry file="RabbitmqSpringbootApplicationTests_topic - 2020.09.12 at 19h 08m 22s.xml">
+      <configuration name="RabbitmqSpringbootApplicationTests.topic" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Provider_testSendMessage - 2020.09.10 at 17h 42m 31s.xml">
-      <configuration name="Provider.testSendMessage" configurationId="JUnit" />
+    <history-entry file="RabbitmqSpringbootApplicationTests_work - 2020.09.12 at 19h 09m 59s.xml">
+      <configuration name="RabbitmqSpringbootApplicationTests.work" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Provider_testSendMessage - 2020.09.10 at 17h 45m 59s.xml">
-      <configuration name="Provider.testSendMessage" configurationId="JUnit" />
+    <history-entry file="RabbitmqSpringbootApplicationTests_work - 2020.09.12 at 19h 11m 31s.xml">
+      <configuration name="RabbitmqSpringbootApplicationTests.work" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Provider_testSendMessage - 2020.09.10 at 17h 49m 27s.xml">
-      <configuration name="Provider.testSendMessage" configurationId="JUnit" />
+    <history-entry file="RabbitmqSpringbootApplicationTests_topic - 2020.09.12 at 19h 12m 51s.xml">
+      <configuration name="RabbitmqSpringbootApplicationTests.topic" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Provider_testSendMessage - 2020.09.10 at 17h 49m 51s.xml">
-      <configuration name="Provider.testSendMessage" configurationId="JUnit" />
+    <history-entry file="RabbitmqSpringbootApplicationTests_route - 2020.09.12 at 19h 13m 16s.xml">
+      <configuration name="RabbitmqSpringbootApplicationTests.route" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26240000" />
+    <option name="totallyTimeSpent" value="34940000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20643431" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23659517" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -445,7 +581,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.6147309" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.51699716" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -457,6 +593,7 @@
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Version Control" order="13" weight="0.3286119" />
+      <window_info anchor="bottom" id="Spring" order="14" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -567,27 +704,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/RabbitMQ-Fanout/src/main/java/fanout/Customer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="32" column="60" selection-start-line="32" selection-start-column="56" selection-end-line="32" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RabbitMQ-Fanout/src/main/java/fanout/Customer1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="734">
-          <caret line="35" column="5" selection-start-line="13" selection-start-column="4" selection-end-line="35" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RabbitMQ-Fanout/src/main/java/fanout/Customer2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="31" column="40" selection-start-line="31" selection-start-column="40" selection-end-line="31" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/RabbitMQ-Fanout/src/main/java/fanout/Customer.java" />
     <entry file="file://$PROJECT_DIR$/RabbitMQ-Fanout/src/main/java/fanout/Customer3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="67">
@@ -595,13 +712,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RabbitMQ-Fanout/src/main/java/fanout/Provider.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-23">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
@@ -636,13 +746,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/RabbitMQTopic/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" column="13" lean-forward="true" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/RabbitMQTopic/pom.xml" />
     <entry file="file://$PROJECT_DIR$/RabbitMQ-WorkQueues/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
@@ -662,29 +766,140 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/RabbitMQ-Routing/src/main/java/routing/Provider.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
+        <state relative-caret-position="414">
           <caret line="22" column="27" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RabbitMQ-Topic/src/main/java/topic/Customer1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="27" column="50" lean-forward="true" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="50" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/RabbitMQ-Topic/src/main/java/topic/Customer2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="27" column="50" lean-forward="true" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="50" />
+        <state relative-caret-position="552">
+          <caret line="27" column="50" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RabbitMQ-Topic/src/main/java/topic/Customer1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="27" column="50" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="50" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/RabbitMQ-Topic/src/main/java/topic/Provider.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="74">
-          <caret line="28" column="41" selection-start-line="28" selection-start-column="41" selection-end-line="28" selection-end-column="41" />
+        <state relative-caret-position="322">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RabbitMQ-SpringBoot/src/test/java/com/zh/TestRabbitMQ.java" />
+    <entry file="jar://D:/tool/jdk1.8.0_191/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="1256" selection-start-line="1256" selection-end-line="1256" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RabbitMQ-Fanout/src/main/java/fanout/Provider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-46">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RabbitMQ-Fanout/src/main/java/fanout/Customer2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="22" column="47" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RabbitMQ-Fanout/src/main/java/fanout/Customer1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="28" column="43" selection-start-line="28" selection-start-column="39" selection-end-line="28" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RabbitMQ-SpringBoot/src/main/java/com/zh/hello/HelloCustomer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="18" column="56" lean-forward="true" selection-start-line="18" selection-start-column="56" selection-end-line="18" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RabbitMQ-SpringBoot/src/main/java/com/zh/work/WorkCustomer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RabbitMQ-SpringBoot/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="989">
+          <caret line="43" column="21" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RabbitMQ-SpringBoot/src/main/java/com/zh/fanout/FanoutCustomer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RabbitMQ-SpringBoot/src/main/resources/application.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RabbitMQ-SpringBoot/src/test/java/com/zh/RabbitmqSpringbootApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#425#426#0" expanded="true" />
+            <element signature="e#507#508#0" expanded="true" />
+            <element signature="e#556#557#0" expanded="true" />
+            <element signature="e#637#638#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RabbitMQ-SpringBoot/src/main/java/com/zh/route/RouteCustomer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="23" column="52" lean-forward="true" selection-start-line="22" selection-start-column="4" selection-end-line="23" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RabbitMQ-SpringBoot/src/main/java/com/zh/topic/TopicCustomer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="27" column="26" lean-forward="true" selection-end-line="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#147#148#0" expanded="true" />
+            <element signature="e#206#207#0" expanded="true" />
+            <element signature="e#1003#1004#0" expanded="true" />
+            <element signature="e#1062#1063#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -761,7 +976,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>RabbitMQ-Topic</last-edited>
+          <last-edited>RabbitMQ-SpringBoot</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

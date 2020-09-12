@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: rabbitmq-springboot
+
+# 配置RabbitMQ
+  rabbitmq:
+    host: 192.168.245.200
+    port: 5672
+    username: admin
+    password: admin
+    virtual-host: /hello
+
